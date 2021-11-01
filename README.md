@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 - 🔭 I’m currently working on new projects
 - 🌱 I’m currently learning Python
