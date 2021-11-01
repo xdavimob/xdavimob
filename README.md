@@ -7,4 +7,3 @@
 - 💬 Ask me about science and technology
 - 📫 How to reach me: davimarques3477@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 17 years old yet
