@@ -1,4 +1,4 @@
-<h1 align="center"> Offensive Security Specialist </h1>
+<h1 align="center"> Offensive Security & Research </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davimtrindade/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3669/3669739.png"/></a>&#8287;&#8287;&#8287;&#8287;
@@ -12,7 +12,7 @@
 
 Cybersecurity professional focused on **Offensive Security**, especially **Penetration Testing** and **Red Team** operations.
 
-I have a deep interest in applied security research and offensive techniques. My passion for security led me to write an article on **Kali NetHunter**, and to present my work at conferences such as **H2HC** and **BSides São Paulo**.  
+I have a deep interest in applied security research and offensive techniques. My passion for security led me to write an article on **Kali NetHunter**, and to present my work at conferences such as **H2HC** and **BSides SP**.  
 You can find these talks and research materials in the repository: [Presentations](https://github.com/xdavimob/Presentations)
 
 ---
@@ -32,8 +32,8 @@ You can find these talks and research materials in the repository: [Presentation
 - **Offensive Security**: Pentest methodologies, Adversary Simulation, Red Team Operations.
 - **Mobile Pentest**: Static & dynamic analysis, Frida, SSL Pinning bypass, RASP evasion.
 - **Reverse Engineering**: Ghidra, Binary Ninja, assembly analysis, `smali`, `.so` patching.
-- **Infrastructure Attacks**: Active Directory enumeration, Kerberoasting, BloodHound, pivoting, and C2 setups (e.g., Havoc, Mythic).
-- **Web & API Testing**: Burp Suite, SQLi, IDOR, deserialization, GraphQL introspection, token abuse.
+- **Infrastructure Attacks**: Active Directory enumeration, Kerberoasting, BloodHound, pivoting, and C2.
+- **Web & API Testing**: Deep inspection with Burp Suite, manual testing, fuzzing, parameter manipulation, authentication bypass, token and session analysis, GraphQL exploitation, and custom automation with Python.
 - **Automation & Scripting**: Bash, Python, PowerShell for Red Team tooling and workflow automation.
 
 ---
@@ -43,7 +43,7 @@ You can find these talks and research materials in the repository: [Presentation
 ### [EDR Detection Engine](https://github.com/xdavimob/WhiteBlood)  
 Real-time behavioral engine to detect and respond to ransomware attacks.
 
-### [RASP Protection Research](https://github.com/Tricta/Helldroid)  
+### [RASP Protection Research](https://github.com/xdavimob/Helldroid)  
 Advanced runtime protection for Java applications and research into bypass techniques.
 
 ---
