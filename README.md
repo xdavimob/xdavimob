@@ -1,4 +1,4 @@
-<h1 align="center"> Pentester & Researcher </h1>
+<h1 align="center"> Offensive Security Specialist </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davimtrindade/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3669/3669739.png"/></a>&#8287;&#8287;&#8287;&#8287;
@@ -8,48 +8,47 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Sou um entusiasta em **cybersecurity**, com foco em **Offensive Security** e **Red Team**. Minha paixão por hackear começou na faculdade, e desde então venho explorando diversas áreas, como:
+Cybersecurity professional focused on **Offensive Security**, especially **Penetration Testing** and **Red Team** operations.
 
-- **Pentest:** Web, infraestrutura, mobile.
-- **Engenharia Reversa:** Experiência com **Ghidra**, **Binary Ninja** e ferramentas similares.
-
-Atualmente, sou parte do time de pentest da **Hakai Offensive Security**, com foco em pentest **mobile** primariamente, web, API, Perimetro e Interno.
-
-### 🏆 Conquistas e estudos:
-- **Desenvolvimento de EDR:** Solução para detecção e resposta a ransomwares (Desenvolvedor).  
-- **Desenvolvimento de RASP:** Proteção com múltiplas camadas para aplicações Java (Pentester).  
-- **Certificação eJPT:** Base fundamental no meu conhecimento de Red Team e pentesting em infraestruturae web.  
-- **HackTheBox Academy:** Foco na trilha **CPTS**, que aborda pentest web e em infraestrutura.
+I have a deep interest in applied security research and offensive techniques. My passion for security led me to write an article on **Kali NetHunter**, and to present my work at conferences such as **H2HC** and **BSides São Paulo**.  
+You can find these talks and research materials in the repository: [Presentations](https://github.com/xdavimob/Presentations)
 
 ---
 
-## 🛠️ Skills & Tools
+## Highlights & Achievements
 
-### Ferramentas Principais:
-- **Pentest Mobile:** **JADX**, **APKTool**, **Frida**.  
-- **Infraestrutura & Red Team:** **Active Directory**, **Metasploit**, **C2**, **Pivoteamento**, **Escalação**.  
-- **Engenharia Reversa:** **Ghidra**, **Binary Ninja**, **Kali Linux Stack**.
-
-### Áreas de Foco:
-- **Red Team**
-- **Pentest Mobile**
-- **Pentest em Infraestrutura**
+- **Ransomware Detection and Response (EDR)**: Co-developed a detection engine focused on real-time monitoring and mitigation.
+- **Java RASP Protection**: Offensive security testing and evasion of multi-layer runtime protections in custom-built solutions.
+- **eJPT Certified**: Solid foundation in infrastructure and web pentesting.
+- **Hack The Box Academy – CPTS Path**: Ongoing studies in advanced web, internal, and infrastructure exploitation.
 
 ---
 
-## 📂 Featured Projects
+## Skills & Tools
 
-### 🔐 [EDR Development Project](https://github.com/xdavimob/WhiteBlood)
-Uma solução inovadora para detecção e resposta a ransomwares.
-
-### 📊 [RASP Protection Project](https://github.com/Tricta/Helldroid)
-Camadas de segurança avançadas para aplicações em Java.
+### Core Skillset
+- **Offensive Security**: Pentest methodologies, Adversary Simulation, Red Team Operations.
+- **Mobile Pentest**: Static & dynamic analysis, Frida, SSL Pinning bypass, RASP evasion.
+- **Reverse Engineering**: Ghidra, Binary Ninja, assembly analysis, `smali`, `.so` patching.
+- **Infrastructure Attacks**: Active Directory enumeration, Kerberoasting, BloodHound, pivoting, and C2 setups (e.g., Havoc, Mythic).
+- **Web & API Testing**: Burp Suite, SQLi, IDOR, deserialization, GraphQL introspection, token abuse.
+- **Automation & Scripting**: Bash, Python, PowerShell for Red Team tooling and workflow automation.
 
 ---
 
-## 📫 Connect with Me
+## Featured Projects
+
+### [EDR Detection Engine](https://github.com/xdavimob/WhiteBlood)  
+Real-time behavioral engine to detect and respond to ransomware attacks.
+
+### [RASP Protection Research](https://github.com/Tricta/Helldroid)  
+Advanced runtime protection for Java applications and research into bypass techniques.
+
+---
+
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davimtrindade/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3669/3669739.png"/></a>&#8287;&#8287;&#8287;&#8287;
